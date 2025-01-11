@@ -38,3 +38,5 @@ Esto instalara todos las dependencias o paquetes necesarios para el correcto fun
 `python manage.py runserver`
 
 Esto nos ejecuta el proyecto en el link **http://127.0.0.1:8000**, este el el puerto por defecto en el que se ejecuta **django** el proyecto ya esta configurado para correcto bajo este puerto evite cambiarlo.
+
+El proyecto le cuenta con una base de datos portable **SQLITE** no es necesario realizar migraciones.
